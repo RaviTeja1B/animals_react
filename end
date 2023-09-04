@@ -1,0 +1,11 @@
+[33mcommit bae72e85a525ea06bfee16f5169ac50ce3439695[m[33m ([m[1;36mHEAD -> [m[1;32mRavi[m[33m, [m[1;31morigin/Ravi[m[33m)[m
+Author: RaviTeja <morampudiraviteja@gmail.com>
+Date:   Mon Sep 4 16:06:34 2023 +0530
+
+    first animal commit
+
+[33mcommit ae2423ad5f103f9da3ab5d854afb1a96becdcbcf[m
+Author: RaviTeja <morampudiraviteja@gmail.com>
+Date:   Mon Sep 4 10:54:42 2023 +0530
+
+    Initialize project using Create React App
